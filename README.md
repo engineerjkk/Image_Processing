@@ -23,8 +23,6 @@ ___
 9. 영상의 밝기 조절  
 10. 영상의 산술 및 논리연산  
 11. 컬러 영상과 색 공간  
-![image](https://user-images.githubusercontent.com/76835313/111906393-bb2c4b80-8a93-11eb-973c-0b9b175a7cd1.png)  
-
 11. 히스토그램 분석  
 12. 영상의 명암비 조절    
 13. 히스토그램 평활화  
@@ -33,6 +31,8 @@ ___
 16. 크로마 키 합성  
 17. 필터링  
 18. 블러링 : 평균값 필터  
+![image](https://user-images.githubusercontent.com/76835313/112973401-3eccf300-918c-11eb-8ed5-2ef18be7b5c5.png)
+
 19. 가우시안 필터  
 20. 언샤프 마스크 필터  
 
