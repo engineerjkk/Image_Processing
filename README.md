@@ -87,9 +87,7 @@ ___
 56. 정적 배경 차분  
 57. 이동 평균 배경  
 58. MOG 배경모델  
-59. 객체추적, 평균이동 알고리즘 MeanShift  
-
-![image](https://user-images.githubusercontent.com/76835313/111906547-52919e80-8a94-11eb-8c54-628fadaa0dd3.png)  
+59. 객체추적, 평균이동 알고리즘 MeanShift   
 
 60. CamShift 알고리즘  
 61. 루카스 카나데 옵티컬플러우  
@@ -97,3 +95,4 @@ ___
 
 62. 밀집(모든픽셀) 옵티컬플러우  
 63. 핸드모션 리모컨  
+![image](https://user-images.githubusercontent.com/76835313/111906547-52919e80-8a94-11eb-8c54-628fadaa0dd3.png) 
