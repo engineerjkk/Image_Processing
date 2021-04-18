@@ -11,10 +11,8 @@ OpenCV를 활용한 컴퓨터비전과 머신러닝-황선규 저 교재의 도�
 # 디렉터리 설명  
 ___
 
-![image](https://user-images.githubusercontent.com/76835313/111906378-9e901380-8a93-11eb-8dba-efd40fd9dc6b.png){: width="50" height="50"}
 <img src="(https://user-images.githubusercontent.com/76835313/111906378-9e901380-8a93-11eb-8dba-efd40fd9dc6b.png)" width="500"> 
 
-출처: https://dulki.tistory.com/188 [둘기의 삽질일기]
 1. 영상의 픽셀 수, 크기 데이터 타입 알기  
 3. 이미지 복사 (Image Copy)  
 4. 마스크연산과 ROI  
