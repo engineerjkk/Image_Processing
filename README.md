@@ -31,7 +31,7 @@ ___
 16. 크로마 키 합성  
 17. 필터링  
 18. 블러링 : 평균값 필터  
-![image](https://user-images.githubusercontent.com/76835313/112973401-3eccf300-918c-11eb-8ed5-2ef18be7b5c5.png| width=100)
+![image](https://user-images.githubusercontent.com/76835313/112973401-3eccf300-918c-11eb-8ed5-2ef18be7b5c5.png | width=100)
 
 19. 가우시안 필터  
 20. 언샤프 마스크 필터  
