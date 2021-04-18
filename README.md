@@ -10,8 +10,7 @@ OpenCV를 활용한 컴퓨터비전과 머신러닝-황선규 저 교재의 도�
 
 # 디렉터리 설명  
 ___
-
-<img src="(https://user-images.githubusercontent.com/76835313/111906378-9e901380-8a93-11eb-8dba-efd40fd9dc6b.png)" width="500"> 
+![image](https://user-images.githubusercontent.com/76835313/111906378-9e901380-8a93-11eb-8dba-efd40fd9dc6b.png)
 
 1. 영상의 픽셀 수, 크기 데이터 타입 알기  
 3. 이미지 복사 (Image Copy)  
@@ -31,7 +30,7 @@ ___
 16. 크로마 키 합성  
 17. 필터링  
 18. 블러링 : 평균값 필터  
-![image](https://user-images.githubusercontent.com/76835313/112973401-3eccf300-918c-11eb-8ed5-2ef18be7b5c5.png | width=100)
+![image](https://user-images.githubusercontent.com/76835313/112973401-3eccf300-918c-11eb-8ed5-2ef18be7b5c5.png)
 
 19. 가우시안 필터  
 20. 언샤프 마스크 필터  
