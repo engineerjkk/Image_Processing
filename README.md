@@ -61,6 +61,8 @@ ___
 38. 레이블링(객체의 모양과 크기 추출)  
 39. 외곽선 검출  
 40. 명함 인식 프로그램  
+![명함검출](https://user-images.githubusercontent.com/76835313/115799881-59edf400-a414-11eb-8d6c-97076093c854.gif)
+
 
 ![image](https://user-images.githubusercontent.com/76835313/111906471-07778b80-8a94-11eb-9968-bfd12b143885.png)  
 
