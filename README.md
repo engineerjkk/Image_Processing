@@ -53,8 +53,8 @@ ___
 
 31. 그래디언트와 에지 검출  
 32. 캐니 에지 검출  
-33. 직선검출(허프변환)  ![허프원검출](https://user-images.githubusercontent.com/76835313/115800010-a6d1ca80-a414-11eb-8c27-ea58fa8981bd.gif)
-![차선인식](https://user-images.githubusercontent.com/76835313/115800031-b6511380-a414-11eb-9ce7-7d395b2fa022.gif)
+33. 직선검출(허프변환) 
+![허프원검출](https://user-images.githubusercontent.com/76835313/115800010-a6d1ca80-a414-11eb-8c27-ea58fa8981bd.gif)
 
 34. 영상의 이진화  
 35. 자동 이진화  
