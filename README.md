@@ -53,7 +53,9 @@ ___
 
 31. 그래디언트와 에지 검출  
 32. 캐니 에지 검출  
-33. 직선검출(허프변환)  
+33. 직선검출(허프변환)  ![허프원검출](https://user-images.githubusercontent.com/76835313/115800010-a6d1ca80-a414-11eb-8c27-ea58fa8981bd.gif)
+![차선인식](https://user-images.githubusercontent.com/76835313/115800031-b6511380-a414-11eb-9ce7-7d395b2fa022.gif)
+
 34. 영상의 이진화  
 35. 자동 이진화  
 36. 지역 이진화  
@@ -61,10 +63,6 @@ ___
 38. 레이블링(객체의 모양과 크기 추출)  
 39. 외곽선 검출  
 40. 명함 인식 프로그램  
-![명함검출](https://user-images.githubusercontent.com/76835313/115799881-59edf400-a414-11eb-8d6c-97076093c854.gif)
-
-
-![image](https://user-images.githubusercontent.com/76835313/111906471-07778b80-8a94-11eb-9968-bfd12b143885.png)  
 
 41. 그랩컷  
 42. 모멘트 기반 객체 검출  
@@ -83,6 +81,7 @@ ___
 51. 특징점 매칭  
 52. Good 매칭 선별  
 53. 호모그래피와 영상매칭  
+![image](https://user-images.githubusercontent.com/76835313/111906471-07778b80-8a94-11eb-9968-bfd12b143885.png)  
 54. 이미지 스티칭    
 55. AR비디오 플레이어  
 56. 정적 배경 차분  
